@@ -2,7 +2,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:oat-sa/oatbox-extension-installer.git"
+            "url": "git@github.com:openthinklabs/oatbox-extension-installer.git"
         }
     ],
     "name": "openthinklabs/extension-tao-group",
